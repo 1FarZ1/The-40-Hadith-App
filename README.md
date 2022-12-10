@@ -13,7 +13,6 @@
 ![image](https://user-images.githubusercontent.com/91225280/179863145-37e5bd85-cb4e-4e20-bc5d-12cd8073c2f9.png) 
 ![image](https://user-images.githubusercontent.com/91225280/179863161-8e7ebd9f-a732-45d5-bb23-c5d0d4607d0b.png) 
 ![image](https://user-images.githubusercontent.com/91225280/179863197-06fc544b-0de8-4c12-9f27-16e8f1c9b71c.png)
-### Most of the work has been done, but there some things i need to complete, i will do it asap database ect, but anyways a star will encourage me ,Thanks i had a problem with the pull request i  will try to fix it asap , peace
 
 ## Features 
 - .
