@@ -15,6 +15,19 @@
 ![image](https://user-images.githubusercontent.com/91225280/179863197-06fc544b-0de8-4c12-9f27-16e8f1c9b71c.png)
 ### Most of the work has been done, but there some things i need to complete, i will do it asap database ect, but anyways a star will encourage me ,Thanks i had a problem with the pull request i  will try to fix it asap , peace
 
+## Features 
+- .
+- .
+- .
+- .
+- .
+## Resources
+- .
+- .
+- .
+- .
+
+
 ## Authors
 
 - [@1FarZ1](https://www.github.com/1FarZ1)
